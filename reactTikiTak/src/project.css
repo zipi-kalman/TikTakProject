@@ -1,0 +1,39 @@
+* {box-sizing: border-box;}
+
+.img-magnifier-container {
+  position:relative;
+}
+
+.img-magnifier-glass {
+  position: absolute;
+  border: 3px solid #000;
+  border-radius: 50%;
+  cursor: none;
+  /*Set the size of the magnifier glass:*/
+  width: 100px;
+  height: 100px;
+}
+.tipTop{
+   font-size:10vh ;
+   color: black !important;
+  
+}
+.kol{height: 80vh;
+   background-image: linear-gradient(rgb(95, 52, 92),#dde2dd);
+   text-align: center;}
+   #e{font-size: 10vw;}
+ .footer{
+   /* position:absolute; */
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: white;
+   text-align: center;
+   }
+   
+   
+   
+
+ 
+   
+   
